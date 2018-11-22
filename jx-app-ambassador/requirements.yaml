@@ -1,0 +1,4 @@
+dependencies:
+- name: "ambassador"
+  repository: https://www.getambassador.io
+  version: 0.40.1
